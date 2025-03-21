@@ -9,7 +9,7 @@ public class Main
        }
        else
        {
-        System.out.println("Жопа");
+        System.out.println("Более культурное слово");
        }
     }
 }
